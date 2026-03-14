@@ -307,12 +307,7 @@ drugs=WARFARIN,CLOPIDOGREL
 
 ---
 
-## 👥 Team Members
-
-- **Vedang Solaskar** — Backend Architecture & Clinical Engine
-- **Mrudul Bokade** — Frontend Development
-- **Rishikesh Nate** — AI Integration & Deployment
-
+### Front-end repo: https://github.com/matrix-1407/pharmaguard-ui
 ---
 
 ## 🏆 Hackathon Highlights
