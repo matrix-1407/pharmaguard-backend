@@ -119,7 +119,7 @@ https://pharmaguard-ui.vercel.app
 
 ## ⚙️ Backend — Clinical Decision Engine
 
-This repository contains the **Python (FastAPI)** backend, a 1:1 rewrite of the original Java Spring Boot version.
+This repository contains the **Python (FastAPI)** backend.
 
 ### Tech Stack
 
